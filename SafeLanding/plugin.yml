@@ -1,0 +1,9 @@
+name: SafeLanding
+main: kloudy.safelanding.SafeLandingMain
+version: 1.0
+author: Kloudy
+
+permissions:
+    safelanding.use:
+      description: Allows a player to use the safelanding plugin
+      default: true
